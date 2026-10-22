@@ -15,3 +15,5 @@ Published with GitHub Pages from `main` / repository root, without a build step.
 Contact: incago@gmail.com. Operator: 김준학.
 
 Use relative links for assets and navigation. No analytics, forms, third-party fonts or JavaScript dependencies are included.
+
+Compatibility pages are versioned in the private app repository under `website-legacy/` and deployed separately to `incago/artlas-site`. The renamed public repository contains only the10 website files, with no app sources or private photos.
