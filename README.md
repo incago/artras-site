@@ -1,14 +1,16 @@
-# Artlas public website
+# Artras public website
 
-Public product, support and privacy pages for Artlas. App source and private development materials are kept in a separate private repository.
+Public product, support and privacy pages for Artras. App source and private development materials are kept in a separate private repository.
+
+Public source for the Artras site. The canonical base URL is https://incago.github.io/artras-site/. The former /artlas-site/ pages are retained as compatibility redirects for existing app versions.
 
 Published with GitHub Pages from `main` / repository root, without a build step.
 
-- Website: https://incago.github.io/artlas-site/
-- Privacy (Korean): https://incago.github.io/artlas-site/privacy/
-- Support (Korean): https://incago.github.io/artlas-site/support/
-- Privacy (English): https://incago.github.io/artlas-site/en/privacy/
-- Support (English): https://incago.github.io/artlas-site/en/support/
+- Website: https://incago.github.io/artras-site/
+- Privacy (Korean): https://incago.github.io/artras-site/privacy/
+- Support (Korean): https://incago.github.io/artras-site/support/
+- Privacy (English): https://incago.github.io/artras-site/en/privacy/
+- Support (English): https://incago.github.io/artras-site/en/support/
 
 Contact: incago@gmail.com. Operator: 김준학.
 
